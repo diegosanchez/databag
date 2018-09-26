@@ -1,0 +1,17 @@
+{
+  "level_0": {
+    "level_0_1": {
+      "level_0_0_0": {
+        "level_0_0_0_1": 1,
+        "level_0_0_0_2": "abc",
+        "level_0_0_0_3": "def"
+      }
+    }
+  },
+  "nested_1": {
+    "nested_2": {
+      "key": 1
+    }
+  },
+  "simplest": "abcd"
+}

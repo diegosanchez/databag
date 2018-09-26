@@ -1,0 +1,12 @@
+{
+  "a": 1,
+  "b": "abc",
+  "c": true,
+  "d": 9.2,
+  "nested": {
+    "nested": {
+      "nested_key": 2
+    }
+  },
+  "absent": 9
+  }
